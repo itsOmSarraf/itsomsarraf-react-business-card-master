@@ -5,15 +5,16 @@ export default function Text() {
         <div className="px-10">
           <h1 className="text-xl mb-2 font-bold">About</h1>
           <p className="text-sm">
-            I am a 1st year Computer Science Student at Bennett University.I am
-            a self taught programmer. I like to learn new things and explore new
-            technologies. I also do photography as a hobby.
+            • 1st year Computer Science Student.
+          </p>
+          <p className="text-sm">
+          • I am a self taught programmer.
           </p>
         </div>
         <div className="px-10">
           <h1 className="text-xl mt-4 mb-2 font-bold">Interests</h1>
           <p className="text-sm">
-            I am interested in Web Dev, Stoicism & Pyschology.
+            I am interested in Stoicism, Photography & Pyschology.
           </p>
         </div>
       </div>
