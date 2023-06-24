@@ -13,8 +13,8 @@ export default function Buttons() {
           target="_blank"
           rel="noreferrer"
         >
-          <button className=" m-4 bg-[#00AAEC] px-4 py-2 border flex gap-2 border-[#00AAEC] rounded-lg text-white font-bold hover:border-slate-400 hover:text-slate-900 hover:shadow transition duration-150 text-center items-center">
-            <img className="w-6 h-" src={twitter} loading="lazy" alt="Twitt" />
+          <button className=" m-4 bg-white px-4 py-2 border flex gap-2  border-slate-200 rounded-lg text-slate-950 font-bold hover:border-slate-400 hover:text-[#179CF0] hover:shadow transition duration-150 text-center items-center">
+            <img className="w-6" src={twitter} loading="lazy" alt="Twitt" />
             <span className="pt-0.5">Twitter</span>
           </button>
         </a>
@@ -24,12 +24,7 @@ export default function Buttons() {
           rel="noreferrer"
         >
           <button className=" m-4 font-bold  bg-white px-4 py-2 border flex gap-2 border-slate-200 rounded-lg text-slate-950 hover:border-slate-400 hover:text-[#007EBB] hover:shadow transition duration-150 text-center items-center">
-            <img
-              className="w-6 h-"
-              src={linkedin}
-              loading="lazy"
-              alt="Linkedin"
-            />
+            <img className="w-6" src={linkedin} loading="lazy" alt="Linkedin" />
             <span className="pt-0.5">Linkedin</span>
           </button>
         </a>
