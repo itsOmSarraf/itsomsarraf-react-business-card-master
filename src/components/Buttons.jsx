@@ -14,7 +14,7 @@ export default function Buttons() {
           rel="noreferrer"
         >
           <button className=" m-4 bg-white px-4 py-2 border flex gap-2  border-slate-200 rounded-lg text-slate-950 font-bold hover:border-slate-400 hover:text-[#179CF0] hover:shadow transition duration-150 text-center items-center">
-            <img className="w-6" src={twitter} loading="lazy" alt="Twitt" />
+            <img className="w-6" src={twitter} loading="lazy" alt="Twitter" />
             <span className="pt-0.5">Twitter</span>
           </button>
         </a>
