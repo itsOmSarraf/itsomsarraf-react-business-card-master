@@ -5,10 +5,13 @@ export default function Text() {
         <div className="px-10">
           <h1 className="text-xl mb-2 font-bold">About</h1>
           <p className="text-sm">
-            • 1st year Computer Science Student.
+            • 2nd year, Computer Science Student.
           </p>
           <p className="text-sm">
-          • I am a self taught programmer.
+          • Trying to be a dev.
+          </p>
+            <p className="text-sm">
+          • DataScience,Frontend.
           </p>
         </div>
         <div className="px-10">
